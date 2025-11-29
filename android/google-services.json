@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "670995147714",
+    "project_id": "findhomeapp-4e0d5",
+    "storage_bucket": "findhomeapp-4e0d5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670995147714:android:cc8a2a2c0b2613f231445b",
+        "android_client_info": {
+          "package_name": "com.alfred.findhomeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNQY0y5DKibnJm4VQxPEU3k0mrFy6-iDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
