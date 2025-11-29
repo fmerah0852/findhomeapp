@@ -4,7 +4,8 @@ FindHomeApp adalah aplikasi mobile berbasis Flutter yang menampilkan antarmuka m
 Aplikasi ini dibuat untuk latihan membangun UI/UX Flutter dan pengelolaan state menggunakan Provider.
 
 🚀 Features
-🔹 1. Explore Home Page
+
+1. Explore Home Page
 
 Banner Explore Now
 
@@ -14,7 +15,7 @@ Daftar Recommended Space
 
 Menu Tips & Guidance
 
-🔹 2. Recommended Space
+2. Recommended Space
 
 Menggunakan Provider untuk mengambil data
 
@@ -22,7 +23,7 @@ Menampilkan card kos/apartment
 
 Klik untuk membuka halaman detail
 
-🔹 3. Detail Space Page
+3. Detail Space Page
 
 Menampilkan informasi lengkap mengenai kos, seperti:
 
@@ -38,7 +39,7 @@ Fasilitas (kitchen, bedroom, cupboard)
 
 Tombol Book Now
 
-🔹 4. Bottom Navigation Bar
+4. Bottom Navigation Bar
 
 Custom navigation bar dengan icon modern
 
